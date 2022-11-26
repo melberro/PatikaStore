@@ -21,7 +21,7 @@ export default StyleSheet.create({
      },
     title: {
         fontWeight: 'bold',
-        fontSize: 15,
+        fontSize: 14,
         color: 'black',
     },
     price: {
