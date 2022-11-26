@@ -13,10 +13,12 @@ export default StyleSheet.create({
         margin:10,
         padding:10,
         height: height*0.4,
+        borderRadius: 10,
     },
     image: { 
         width: '100%',
         height: '100%',
+        borderRadius: 10,
     
      },
     title: {
@@ -45,6 +47,7 @@ export default StyleSheet.create({
     imageContainer: {
         backgroundColor: 'white',
         height: height*0.27,
+        borderRadius: 10,
     },
     textContainer: {
         flex: 1,
@@ -52,7 +55,8 @@ export default StyleSheet.create({
     },
     bigItemImage: {
         backgroundColor: 'white',
-        height: height*0.31
+        height: height*0.31,
+        borderRadius: 10,
 
     },
   
